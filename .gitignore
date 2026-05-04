@@ -1,0 +1,65 @@
+# Dossiers générés par Unity à ignorer (valable dans tous les sous-dossiers)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+ 
+
+# Fichiers de capture très lourds
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+ 
+
+# Plugins et Caches (Rider, Visual Studio, Gradle)
+[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+
+ 
+
+# Fichiers de solution et d'IDE générés
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+ 
+
+# Meta-fichiers associés aux fichiers ignorés
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+ 
+
+# Fichiers de crash, builds et paquets
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+ 
+
+# Fichiers temporaires Addressables
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/*
